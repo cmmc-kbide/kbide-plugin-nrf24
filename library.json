@@ -1,0 +1,16 @@
+{
+  "name" : "kbide-plugin-nrf24",
+  "title": "nrf24",
+  "keywords": "nrf24, esp32, esp8266, arduino",
+  "description": "Plugin nrf24 for KB-IDE",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-nrf24/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-nrf24/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
